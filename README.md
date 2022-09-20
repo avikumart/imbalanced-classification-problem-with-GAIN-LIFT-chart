@@ -40,3 +40,11 @@ Dataset is taken from UCI's ML repository and it is a part of the book Machine l
 
 1) Learned use-case of GAIN-LIFT charts to solve imbalanced class classification problem
 2) Learned use-case of decision tree visualization to make decisions based on decision tree charts
+
+## Tools and technologies:
+1) Scikit-learn
+2) Pandas
+3) Matplotlib for visualizations
+4) Logistics regression algorithm
+5) Decision tree algorithm
+6) graphVIZ API to visualize decision tree chart
