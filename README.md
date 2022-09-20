@@ -6,7 +6,7 @@ In target marketing or marketing campaigns, customers' responses to campaign are
 
 The organization incurs cost for each customer contact and hence would like to minimize the cost of marketing campaign and at the same time achieve the desired response level from the customers.
 
-Formula for Gain and Lift is as below:
+Formulas for Gain and Lift is as below:
 
 `GAIN = (Cumulative number of positive observations upto decile i)/(Total number of positive observations in the data)`
 
